@@ -1,0 +1,25 @@
+.btn2:hover{
+  background-color: white;
+}
+.box-1{
+  width: 100% !important;
+  background-color:#23363f;
+  height: 1250px;
+}
+.blob-btn {
+  z-index: 1;
+  position: relative;
+  padding: 20px 46px;
+  margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #0505A9;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  transition: color 0.5s;
+  cursor: pointer;
+  border-radius: 30px;
+}
